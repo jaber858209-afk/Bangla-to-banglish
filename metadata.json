@@ -1,0 +1,5 @@
+{
+  "name": "Bangla Script Converter",
+  "description": "Convert Romanized/Phonetic Bangla text to beautiful Bengali script using Gemini AI.",
+  "requestFramePermissions": []
+}
